@@ -2,7 +2,10 @@
 # Kyeonwoo Park
 ------------
 ## NEXT x 고려대학교 멋쟁이 사자처럼 10기
+--------------
+## Major in Health & Environmental Science
 ---------------
+
 ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-3766AB?style=flat&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/CSS-3766AB?style=plastic&logo=CSS3&logoColor=black)
