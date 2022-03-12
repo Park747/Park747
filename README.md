@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**Park747/Park747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 안녕하세요 !
 # Kyeonwoo Park
 ------------
 ## NEXT x 고려대학교 멋쟁이 사자처럼 10기
@@ -23,3 +8,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSS-3766AB?style=plastic&logo=CSS3&logoColor=black)
 -----------------
 ![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=black)
+[@w00_p](https://www.instagram.com/w00_p/)
+---
+E-mail : [qkrrusdn747@korea.ac.kr]
+------------------------------------
