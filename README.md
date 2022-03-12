@@ -1,4 +1,4 @@
-### 안녕하세요 !
+### Welcome to my github !
 # Kyeonwoo Park
 ------------
 ## NEXT x 고려대학교 멋쟁이 사자처럼 10기
